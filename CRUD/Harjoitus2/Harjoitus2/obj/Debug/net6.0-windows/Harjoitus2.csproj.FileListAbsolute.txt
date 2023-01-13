@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\bin\Debug\net6.0-windows\Harjoitus2.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\bin\Debug\net6.0-windows\Harjoitus2.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\bin\Debug\net6.0-windows\Harjoitus2.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\bin\Debug\net6.0-windows\Harjoitus2.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\bin\Debug\net6.0-windows\Harjoitus2.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.Harjoitus2.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\refint\Harjoitus2.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\Harjoitus2.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\CRUD\Harjoitus2\Harjoitus2\obj\Debug\net6.0-windows\ref\Harjoitus2.dll
