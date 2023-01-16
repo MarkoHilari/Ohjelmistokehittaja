@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\bin\Debug\net6.0\LumoT4.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\bin\Debug\net6.0\LumoT4.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\bin\Debug\net6.0\LumoT4.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\bin\Debug\net6.0\LumoT4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\bin\Debug\net6.0\LumoT4.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\refint\LumoT4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\LumoT4.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\LumoT1\LumoT4\obj\Debug\net6.0\ref\LumoT4.dll

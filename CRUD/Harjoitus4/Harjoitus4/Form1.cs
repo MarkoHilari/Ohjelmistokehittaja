@@ -12,7 +12,7 @@ namespace Harjoitus4
             DateTime synttari = SyntymaAikaDT.Value;
             DateTime nyt = DateTime.Now;
             double erotus = Math.Round((nyt - synttari).TotalDays);
-            VuosinaLB.Text = Math.Ceiling(erotus / 365.25) + " vuotta";
+            VuosinaLB.Text = Math.Floor(erotus / 365.25) + " vuotta";
             KuukausinaLB.Text = Math.Ceiling(erotus * 12 / 365.25) + " kuukautta";
             PaivinaLB.Text = erotus + " p‰iv‰‰";
             TunteinaLB.Text = (erotus * 24) + " tuntia";
