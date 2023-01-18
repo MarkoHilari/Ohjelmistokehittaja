@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\bin\Debug\net6.0\KalvoltaTeht.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\bin\Debug\net6.0\KalvoltaTeht.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\bin\Debug\net6.0\KalvoltaTeht.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\bin\Debug\net6.0\KalvoltaTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\bin\Debug\net6.0\KalvoltaTeht.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\refint\KalvoltaTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\KalvoltaTeht.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht\KalvoltaTeht\obj\Debug\net6.0\ref\KalvoltaTeht.dll

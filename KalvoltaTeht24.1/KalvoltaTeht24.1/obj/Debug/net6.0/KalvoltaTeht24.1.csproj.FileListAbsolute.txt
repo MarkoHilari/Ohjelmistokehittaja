@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\bin\Debug\net6.0\KalvoltaTeht24.1.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\bin\Debug\net6.0\KalvoltaTeht24.1.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\bin\Debug\net6.0\KalvoltaTeht24.1.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\bin\Debug\net6.0\KalvoltaTeht24.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\bin\Debug\net6.0\KalvoltaTeht24.1.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\refint\KalvoltaTeht24.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\KalvoltaTeht24.1.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaTeht24.1\KalvoltaTeht24.1\obj\Debug\net6.0\ref\KalvoltaTeht24.1.dll
