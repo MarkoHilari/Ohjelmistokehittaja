@@ -8,7 +8,7 @@
 
         if (luku >= 1 && luku <= 10)
         {
-            Console.WriteLine("Kertotaulu " + luku + ":");
+            Console.WriteLine("Kertotaulu " + luku + " on:");
             Console.WriteLine("");
 
             for (int i = 1; i <= 10; i++)
@@ -18,7 +18,7 @@
         }
         else
         {
-            Console.WriteLine("Numero ei aluella, tarkista syötetty arvo.");
+            Console.WriteLine("Numero ei alueella, tarkista syötetty arvo.");
         }
     }
 }
