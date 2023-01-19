@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\bin\Debug\net6.0\KalvoltaT68.4.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\bin\Debug\net6.0\KalvoltaT68.4.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\bin\Debug\net6.0\KalvoltaT68.4.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\bin\Debug\net6.0\KalvoltaT68.4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\bin\Debug\net6.0\KalvoltaT68.4.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\refint\KalvoltaT68.4.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\KalvoltaT68.4.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KalvoltaT68.1\KalvoltaT68.4\obj\Debug\net6.0\ref\KalvoltaT68.4.dll

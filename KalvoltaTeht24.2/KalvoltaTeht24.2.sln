@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.2", "KalvoltaTeht24.2\KalvoltaTeht24.2.csproj", "{4CEAED2B-D1DE-4A3E-BCA9-2EFDFD4BA2A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.3", "KalvoltaTeht24.3\KalvoltaTeht24.3.csproj", "{492B282C-62EB-440D-A0EC-486F02365075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.4", "KalvoltaTeht24.4\KalvoltaTeht24.4.csproj", "{C03655A3-06C6-4621-B33D-802AF673B306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4CEAED2B-D1DE-4A3E-BCA9-2EFDFD4BA2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CEAED2B-D1DE-4A3E-BCA9-2EFDFD4BA2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CEAED2B-D1DE-4A3E-BCA9-2EFDFD4BA2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492B282C-62EB-440D-A0EC-486F02365075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492B282C-62EB-440D-A0EC-486F02365075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492B282C-62EB-440D-A0EC-486F02365075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492B282C-62EB-440D-A0EC-486F02365075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03655A3-06C6-4621-B33D-802AF673B306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03655A3-06C6-4621-B33D-802AF673B306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03655A3-06C6-4621-B33D-802AF673B306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03655A3-06C6-4621-B33D-802AF673B306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
