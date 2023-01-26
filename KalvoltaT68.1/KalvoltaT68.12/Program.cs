@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         int luku;
-    ltalku:
+    alku:
         try
         {
             Console.Clear();
@@ -14,7 +14,7 @@
         {
             Console.WriteLine(ex.Message);
             Console.WriteLine("Antamasi luku ei ollut kokonaisluku. Yritä uudelleen.");
-            goto ltalku;
+            goto alku;
         }
         for (int i = 0; i < luku; i++)
         {

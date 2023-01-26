@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\bin\Debug\net6.0\KelloTeht.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\bin\Debug\net6.0\KelloTeht.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\bin\Debug\net6.0\KelloTeht.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\bin\Debug\net6.0\KelloTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\bin\Debug\net6.0\KelloTeht.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\refint\KelloTeht.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\KelloTeht.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KelloTeht\KelloTeht\obj\Debug\net6.0\ref\KelloTeht.dll
