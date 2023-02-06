@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\bin\Debug\net6.0\Teht16.1.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\bin\Debug\net6.0\Teht16.1.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\bin\Debug\net6.0\Teht16.1.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\bin\Debug\net6.0\Teht16.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\bin\Debug\net6.0\Teht16.1.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\refint\Teht16.1.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\Teht16.1.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Teht16.1\Teht16.1\obj\Debug\net6.0\ref\Teht16.1.dll

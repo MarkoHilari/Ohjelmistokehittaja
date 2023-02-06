@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaTeht24.3", "Kalvolt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaTeht24.4", "KalvoltaTeht24.4\KalvoltaTeht24.4.csproj", "{C03655A3-06C6-4621-B33D-802AF673B306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaT24.5", "KalvoltaT24.5\KalvoltaT24.5.csproj", "{A7B4B1AC-1AA0-4841-AA4C-9F816DFA4679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT24.5", "KalvoltaT24.5\KalvoltaT24.5.csproj", "{A7B4B1AC-1AA0-4841-AA4C-9F816DFA4679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.5", "KalvoltaTeht24.5\KalvoltaTeht24.5.csproj", "{FFBE1BC9-73CF-4642-9A43-137E759C3620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.6", "KalvoltaTeht24.6\KalvoltaTeht24.6.csproj", "{B9B68371-4847-4473-A0FD-84CE193EC4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht24.7", "KalvoltaTeht24.7\KalvoltaTeht24.7.csproj", "{D5664775-E90F-4353-B4CB-B86AB1783AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{A7B4B1AC-1AA0-4841-AA4C-9F816DFA4679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7B4B1AC-1AA0-4841-AA4C-9F816DFA4679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7B4B1AC-1AA0-4841-AA4C-9F816DFA4679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBE1BC9-73CF-4642-9A43-137E759C3620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE1BC9-73CF-4642-9A43-137E759C3620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE1BC9-73CF-4642-9A43-137E759C3620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE1BC9-73CF-4642-9A43-137E759C3620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B68371-4847-4473-A0FD-84CE193EC4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B68371-4847-4473-A0FD-84CE193EC4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B68371-4847-4473-A0FD-84CE193EC4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B68371-4847-4473-A0FD-84CE193EC4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5664775-E90F-4353-B4CB-B86AB1783AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5664775-E90F-4353-B4CB-B86AB1783AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5664775-E90F-4353-B4CB-B86AB1783AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5664775-E90F-4353-B4CB-B86AB1783AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         Console.Clear();
+        alku:
         Console.WriteLine("Tulostaa pisimmän sanan lauseesta");
         string lause;
         Console.Write("Anna lause: ");
@@ -17,5 +18,11 @@
             }
         }
         Console.WriteLine("Syötetty lause on {0}, pisin sana on {1}", lause, pisin);
+        Console.WriteLine("Aloita alusta (k/e)");
+        string arvo = Console.ReadLine();
+        if (arvo == "k" || arvo == "K")
+        {
+            goto alku;
+        }
     }
 }

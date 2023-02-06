@@ -27,13 +27,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.11", "KalvoltaT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.12", "KalvoltaT68.12\KalvoltaT68.12.csproj", "{474F8BFD-9CFA-4324-8A30-68FC2DB71C8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaT68.13", "KalvoltaT68.13\KalvoltaT68.13.csproj", "{94BA76EF-8906-48E3-8218-F0F299C82A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.13", "KalvoltaT68.13\KalvoltaT68.13.csproj", "{94BA76EF-8906-48E3-8218-F0F299C82A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaT68.14", "KalvoltaT68.14\KalvoltaT68.14.csproj", "{FBA08246-E12F-46BB-860F-57221D166D5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.14", "KalvoltaT68.14\KalvoltaT68.14.csproj", "{FBA08246-E12F-46BB-860F-57221D166D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaT68.15", "KalvoltaT68.15\KalvoltaT68.15.csproj", "{A960F3B1-91D6-4EDB-B638-C2D8DAB16E91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.15", "KalvoltaT68.15\KalvoltaT68.15.csproj", "{A960F3B1-91D6-4EDB-B638-C2D8DAB16E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaT68.16", "KalvoltaT68.16\KalvoltaT68.16.csproj", "{AF0A1A37-9B3A-4E37-9B3B-0B7B5DE186B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalvoltaT68.16", "KalvoltaT68.16\KalvoltaT68.16.csproj", "{AF0A1A37-9B3A-4E37-9B3B-0B7B5DE186B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalvoltaTeht68.17", "KalvoltaTeht68.17\KalvoltaTeht68.17.csproj", "{E2298B6A-F816-453A-8866-112AF1E5B8E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{AF0A1A37-9B3A-4E37-9B3B-0B7B5DE186B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF0A1A37-9B3A-4E37-9B3B-0B7B5DE186B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF0A1A37-9B3A-4E37-9B3B-0B7B5DE186B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2298B6A-F816-453A-8866-112AF1E5B8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2298B6A-F816-453A-8866-112AF1E5B8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2298B6A-F816-453A-8866-112AF1E5B8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2298B6A-F816-453A-8866-112AF1E5B8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

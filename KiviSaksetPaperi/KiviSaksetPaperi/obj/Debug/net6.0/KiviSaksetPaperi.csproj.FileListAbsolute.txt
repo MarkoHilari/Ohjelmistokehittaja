@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\bin\Debug\net6.0\KiviSaksetPaperi.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\bin\Debug\net6.0\KiviSaksetPaperi.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\bin\Debug\net6.0\KiviSaksetPaperi.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\bin\Debug\net6.0\KiviSaksetPaperi.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\bin\Debug\net6.0\KiviSaksetPaperi.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\refint\KiviSaksetPaperi.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\KiviSaksetPaperi.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\KiviSaksetPaperi\KiviSaksetPaperi\obj\Debug\net6.0\ref\KiviSaksetPaperi.dll

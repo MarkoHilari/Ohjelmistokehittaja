@@ -23,13 +23,19 @@
         {
             Console.WriteLine("Luvut ovat positiivisia");
         }
-        else if(luku1 >= 0 && luku2 < 0)
+        else if(luku1 <= 0 && luku2 < 0)
         {
             Console.WriteLine("Luvut ovat negatiivisia");
         }
-        else
+        else 
         {
             Console.WriteLine("Toinen luvuista on positiivinen ja toinen negatiivinen");
+        }
+        Console.WriteLine("Aloita alusta (k/e)");
+        string vastaus = Console.ReadLine();
+        if (vastaus == "k" || vastaus == "K")
+        {
+            goto alku;
         }
     }
 }
