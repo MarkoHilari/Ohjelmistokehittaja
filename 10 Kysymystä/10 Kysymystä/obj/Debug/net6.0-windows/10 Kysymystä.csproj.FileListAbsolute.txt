@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\bin\Debug\net6.0-windows\10 Kysymystä.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\bin\Debug\net6.0-windows\10 Kysymystä.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\bin\Debug\net6.0-windows\10 Kysymystä.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\bin\Debug\net6.0-windows\10 Kysymystä.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\bin\Debug\net6.0-windows\10 Kysymystä.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\_10_Kysymystä.kysymysFM.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\refint\10 Kysymystä.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\10 Kysymystä.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\10 Kysymystä\10 Kysymystä\obj\Debug\net6.0-windows\ref\10 Kysymystä.dll
