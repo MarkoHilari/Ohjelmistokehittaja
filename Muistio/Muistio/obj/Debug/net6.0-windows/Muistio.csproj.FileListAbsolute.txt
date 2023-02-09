@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.muistioFM.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\refint\Muistio.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Muistio\Muistio\obj\Debug\net6.0-windows\ref\Muistio.dll

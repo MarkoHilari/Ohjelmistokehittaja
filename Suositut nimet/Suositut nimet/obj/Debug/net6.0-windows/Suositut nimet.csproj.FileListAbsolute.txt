@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut_nimet.suositutNimetFM.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\bin\Debug\net6.0-windows\Suositut nimet.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\bin\Debug\net6.0-windows\Suositut nimet.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\bin\Debug\net6.0-windows\Suositut nimet.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\bin\Debug\net6.0-windows\Suositut nimet.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\bin\Debug\net6.0-windows\Suositut nimet.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\refint\Suositut nimet.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\Suositut nimet.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Suositut nimet\Suositut nimet\obj\Debug\net6.0-windows\ref\Suositut nimet.dll
