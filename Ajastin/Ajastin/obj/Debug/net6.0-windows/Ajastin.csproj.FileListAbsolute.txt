@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.ajastinFM.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\refint\Ajastin.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll

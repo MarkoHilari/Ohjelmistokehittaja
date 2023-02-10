@@ -85,7 +85,7 @@
             // aikaTM
             // 
             this.aikaTM.Enabled = true;
-            this.aikaTM.Interval = 1000;
+            this.aikaTM.Interval = 1;
             this.aikaTM.Tick += new System.EventHandler(this.aikaTM_Tick);
             // 
             // sekuntiKelloFM
