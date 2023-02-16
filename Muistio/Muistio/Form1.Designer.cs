@@ -59,7 +59,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
-            this.ClientSize = new System.Drawing.Size(1199, 500);
+            this.ClientSize = new System.Drawing.Size(1159, 490);
             this.Controls.Add(this.tekstiTB);
             this.Controls.Add(this.muistiBT);
             this.Name = "muistioFM";

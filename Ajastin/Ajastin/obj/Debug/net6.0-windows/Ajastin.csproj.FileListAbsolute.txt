@@ -15,3 +15,7 @@ C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.ResolveComReference.cache
