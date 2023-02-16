@@ -181,8 +181,8 @@ namespace MuistioT17
 
         private void tietoaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           /* tieto tieto = new tieto();
-            tieto.ShowDialog();*/
+            tietoa tieto = new tietoa();
+            tieto.ShowDialog();
         }
     }
 }

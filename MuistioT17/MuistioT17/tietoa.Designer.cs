@@ -34,7 +34,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(412, 238);
+            this.label1.Location = new System.Drawing.Point(18, 709);
             this.label1.Margin = new System.Windows.Forms.Padding(9, 0, 9, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(468, 64);
@@ -45,9 +45,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(29F, 64F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2320, 1152);
+            this.BackColor = System.Drawing.Color.DarkViolet;
+            this.BackgroundImage = global::MuistioT17.Properties.Resources.adam;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1285, 782);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Ink Free", 26F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.ForeColor = System.Drawing.Color.Cyan;
             this.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.Name = "tietoa";
             this.Text = "tietoa";

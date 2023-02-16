@@ -1,0 +1,17 @@
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\bin\Debug\net6.0-windows\Oppilaitos.exe
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\bin\Debug\net6.0-windows\Oppilaitos.deps.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\bin\Debug\net6.0-windows\Oppilaitos.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\bin\Debug\net6.0-windows\Oppilaitos.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\bin\Debug\net6.0-windows\Oppilaitos.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.avainHenkiloFM.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\refint\Oppilaitos.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.pdb
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\Oppilaitos\Oppilaitos\obj\Debug\net6.0-windows\ref\Oppilaitos.dll

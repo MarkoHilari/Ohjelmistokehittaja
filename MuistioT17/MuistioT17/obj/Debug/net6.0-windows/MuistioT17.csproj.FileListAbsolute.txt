@@ -16,3 +16,5 @@ C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Deb
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Debug\net6.0-windows\MuistioT17.pdb
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Debug\net6.0-windows\MuistioT17.genruntimeconfig.cache
 C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Debug\net6.0-windows\ref\MuistioT17.dll
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Debug\net6.0-windows\MuistioT17.Info.resources
+C:\Users\Omistaja\source\repos\Ohjelmistokehittaja\MuistioT17\MuistioT17\obj\Debug\net6.0-windows\MuistioT17.Properties.Resources.resources

@@ -19,8 +19,8 @@ namespace MuistioT17
 
         private void tietoa_Load(object sender, EventArgs e)
         {
-            tietoa tietoa = new tietoa();
-            tietoa.ShowDialog();
+            /*tietoa tieto = new tietoa();
+            tieto.ShowDialog();*/
         }
     }
 }
